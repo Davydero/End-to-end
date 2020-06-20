@@ -1,0 +1,8 @@
+Una vez instalado el simulador CARLA 0.8.2
+Se deben colocar estos archivos en el siguiente detalle donde
+fue instalado el simulador.
+Copiar en la carpeta PythonClient el archivo run_CIL.py
+En la ubicacion PythonClient/agents copiar toda la carpeta imitation
+
+Con estos archivos la ejecucion se realiza de manera exitosa, debido
+a que el modelo preentrenado se encuentra entre ellos
